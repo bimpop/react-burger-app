@@ -1,14 +1,35 @@
 Screen 1
-![Screen 1](https://drive.google.com/uc?export=view&id=14LMxqGN0NkPTe7clygDTs1p2OBw5KW_M)
+<br>
+<img
+  src="https://drive.google.com/uc?export=view&id=14LMxqGN0NkPTe7clygDTs1p2OBw5KW_M"
+  alt="Alt text"
+  title="Screen 1"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 Screen 2
-![Screen 2](https://drive.google.com/uc?export=view&id=1fnfY2pm1-xPVdgoNIKJd79B5wlrgjJJP)
+<br>
+<img
+  src="https://drive.google.com/uc?export=view&id=1fnfY2pm1-xPVdgoNIKJd79B5wlrgjJJP"
+  alt="Screen 2"
+  title="Screen 2"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
 
 Screen 3
-![Screen 3](https://drive.google.com/uc?export=view&id=1B4ek-WGaQtU3l6qUd9CpWQxgxjFccICb)
+<br>
+<img
+  src="https://drive.google.com/uc?export=view&id=1B4ek-WGaQtU3l6qUd9CpWQxgxjFccICb"
+  alt="Screen 3"
+  title="Screen 3"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 Screen 4
-![Screen 4](https://drive.google.com/uc?export=view&id=1YZ7xyoiwvjzPC6ced7NtdaXAI3yu-TyC)
+<br>
+<img
+  src="https://drive.google.com/uc?export=view&id=1YZ7xyoiwvjzPC6ced7NtdaXAI3yu-TyC"
+  alt="Screen 4"
+  title="Screen 4"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
